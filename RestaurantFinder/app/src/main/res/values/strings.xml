@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RestaurantFinder</string>
+    <string name="internet_is_off">Internet is Off , Please Turn On !</string>
+    <string name="location_is_off">Location is Off , Please Turn On !</string>
+    <string name="turn_on_location">Turn On Location</string>
+    <string name="turn_on_internet">Turn On Internet</string>
+    <string name="Cancel">Cancel</string>
+</resources>
